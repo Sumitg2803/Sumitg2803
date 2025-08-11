@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Gaikwad</h1>
 <h3 align="center">Passionate about AI, Web Development, and Problem Solving</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/fedbca5a-6cee-4e8e-88b1-fb33c3805d78">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740&q=80">
 
 
 <p align="left"> <a href="https://twitter.com/sumitsg2803" target="blank"><img src="https://img.shields.io/twitter/follow/sumitsg2803?logo=twitter&style=for-the-badge" alt="sumitsg2803" /></a> </p>
