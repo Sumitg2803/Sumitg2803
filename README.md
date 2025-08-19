@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg)
-<h1 align="center">Hi 👋, I'm Sumit Gaikwad</h1>
+<h1 align="center">I'm Sumit Gaikwad</h1>
 <h3 align="center">Passionate about AI, Web Development, and Problem Solving</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740&q=80">
