@@ -114,5 +114,5 @@
   <br>
   <b>Thanks for visiting! 😄</b>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=sumitg2803&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/sumitg2803/sumitg2803.svg?style=flat-square&label=Profile%20Views&color=brightgreen&exclude=103.171.209.236" alt="Profile Views" />
 </div>
