@@ -114,5 +114,5 @@
   <br>
   <b>Thanks for visiting! 😄</b>
   <br>
-  <img src="https://hits.sh/github.com/sumitg2803/sumitg2803.svg?style=flat-square&label=Profile%20Views&color=brightgreen&exclude=161.75.28.378" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/sumitg2803/sumitg2803.svg?style=flat-square&label=Profile%20Views&color=brightgreen&exclude=161.75.28.368" alt="Profile Views" />
 </div>
