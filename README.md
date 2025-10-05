@@ -24,7 +24,7 @@
 - 💡 Exploring **AI, Web Development & Competitive Coding**  
 - 🌱 Always **learning new technologies** and improving my skills
 - 📫 Reach me at **sumit.s.gaikwad28@gmail.com**  
-- ⚡ Fun fact: *My keyboard knows my secrets better than my diary* ⌨️📖  
+- ⚡ Fun fact: *My keyboard knows my secrets better than my diary* ⌨️
 - 🎯 Goal: To create impactful solutions through technology
 
 <div align="center">
